@@ -1,0 +1,19 @@
+{
+  "name": "bybit-market-data",
+  "version": "1.0.0",
+  "description": "Subscribes to websockets for spot price and order book of BTCUSD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eodeluga/bybit-market-data.git"
+  },
+  "author": "eodeluga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eodeluga/bybit-market-data/issues"
+  },
+  "homepage": "https://github.com/eodeluga/bybit-market-data#readme"
+}
